@@ -1,8 +1,8 @@
 const HEAD = (
   <div
     style={{
-      width: "50px",
-      height: "50px",
+      width: "70px",
+      height: "70px",
       borderRadius: "100%",
       border: "10px solid black",
       position: "absolute",
